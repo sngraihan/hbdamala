@@ -202,7 +202,7 @@ export default function Countdown({ onFinish }: CountdownProps) {
               letterSpacing: "-0.02em",
             }}
           >
-            23 March
+            23 Maret
           </div>
           <div style={{ display: "flex" }}>
             {currentDate.getFullYear().toString().split('').map((char, i) => (
